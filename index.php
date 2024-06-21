@@ -16,3 +16,4 @@ define( 'WP_USE_THEMES', true );
 /** Loads the WordPress Environment and Template */
 require __DIR__ . '/wp-blog-header.php';
 // new comment to change
+// new comment 21/6
